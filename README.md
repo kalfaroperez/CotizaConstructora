@@ -1,2 +1,2 @@
 # CotizaConstructora
-Proyecto Web Api con .Net Core y N Layers
+Proyecto Web Api con .net core 7 y arquitectura n capas.
